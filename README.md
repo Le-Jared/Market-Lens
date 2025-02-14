@@ -28,10 +28,13 @@ python run.py
 - Financial insights generation
 
 ## Screenshots
-<img width="1317" alt="Screenshot 2025-02-14 at<img width="1359" alt="Screenshot 2025-02-14 at 12 12 23 PM" src="https://github.com/user-attachments/assets/87d6af38-5390-4cfe-b799-48538474bcba" />
-
-
 <img width="1359" alt="Screenshot 2025-02-14 at 12 13 19 PM" src="https://github.com/user-attachments/assets/d9c5947f-cfc4-4479-84bd-d16d2e8549c0" />
+
+
+<img width="1359" alt="Screenshot 2025-02-14 at 12 12 23 PM" src="https://github.com/user-attachments/assets/87d6af38-5390-4cfe-b799-48538474bcba" />
+
+
+
 
 
 
